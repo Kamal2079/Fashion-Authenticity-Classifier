@@ -1,6 +1,6 @@
 # Fashion Authenticity Classifier
 
-This CNN Image Classifier takes in images of clothing and classifies them as authentic or counterfeit. The aim of our project was to protect consumers from scams. We imagine that in its final form, this code could be in a mobile app that customers can use while shopping. Shoppers could pull out the app and take a picture of pieces they're interested in purchasing and verify their authenticity before they buy.
+This CNN Image Classifier takes in images of clothing and classifies them as authentic or counterfeit. The aim of our project was to protect consumers from scams. We imagine that in its final form, this code could be in a mobile app that customers can use while shopping. Shoppers could pull up the app, take a picture of pieces they're interested in purchasing, and verify their authenticity before they buy.
 
 The CNN was trained with a custom dataset curated by my groupmates and I. I found code written by Kaggle user Vincenzooo and made a number of edits to have that code serve our purposes.
 
